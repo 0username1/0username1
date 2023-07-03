@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
+In addition to studying, I enjoy painting, playing badminton, piano and photography has always been one of my favorite hobbies.
+
 * ✉️  You can contact me at [bhavanamekala1029@gmail.com](mailto:bhavanamekala1029@gmail.com)
 * 🤝  I'm open to collaborating on Web Development, ML
 
