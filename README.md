@@ -15,7 +15,6 @@ Besides my academic pursuits, I dedicate my time to painting, playing badminton,
     <img src="https://skillicons.dev/icons?i=cpp,py,c,html,css,tailwind,bootstrap,sklearn,js,threejs,nodejs,express,react,nextjs,git,github,heroku,linux,ubuntu,mysql,mongodb,vercel,netlify" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,c,html,css,tailwind,bootstrap,sklearn,js,threejs,nodejs,express,react,nextjs,git,github,heroku,linux,ubuntu,mysql,mongodb,vercel,netlify)](https://skillicons.dev)
 
 ### Socials
 <p align="left">
