@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Bhavana Mekala </h1>
+ <h1>Hi 👋, I'm Bhavana Mekala </h1>
 Machine Learning | Software Developer | Web Developer
 I enjoy painting, playing badminton, piano and photography has always been one of my favorite hobbies.
 
