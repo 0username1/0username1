@@ -19,15 +19,16 @@ Besides my academic pursuits, I dedicate my time to painting, playing badminton,
 ### Socials
 <p align="left">
     <a href="https://www.github.com/0username1" target="_blank" rel="noreferrer">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="margin-right: 10px;" width="32" height="32" />
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="margin-right: 15px;" width="32" height="32" />
     </a>
     <a href="https://www.linkedin.com/in/bhavana-mekala-611235229/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" style="margin-right: 10px;" width="32" height="32" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" style="margin-right: 15px;" width="32" height="32" />
     </a>
     <a href="https://www.youtube.com/channel/UCnOQlqdTiXG88mBZRVVueWA" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" alt="YouTube" width="32" height="32" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" alt="YouTube" style="margin-right: 15px;" width="32" height="32" />
     </a>
 </p>
+
 
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=0username1&show_icons=true&theme=dark)
