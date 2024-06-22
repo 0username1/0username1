@@ -45,7 +45,7 @@ I enjoy painting, playing badminton, piano and photography has always been one o
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,c,html,css,tailwind, bootstrap,sklearn, js,threejs, nodejs, express,react, nextjs, git,github, heroku,linux,ubuntu, mysql, mongodb, vercel, netlify)](https://skillicons.dev)
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=0username1&show_icons=true&theme=dark)
 
