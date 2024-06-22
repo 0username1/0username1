@@ -33,19 +33,7 @@ I enjoy painting, playing badminton, piano and photography has always been one o
     <a href="http://www.medium.com/@bhavanamekala1029" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
     <a href="https://www.youtube.com/channel/UCnOQlqdTiXG88mBZRVVueWA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0username1)](https://github.com/0username1/github-readme-stats)
-
   
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/0username1">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bhavana-mekala-611235229">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
