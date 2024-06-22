@@ -12,7 +12,7 @@ Besides my academic pursuits, I dedicate my time to painting, playing badminton,
 ### Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,c,html,css,tailwind,bootstrap,sklearn,js,threejs,nodejs,express,react,nextjs,git,github,heroku,linux,ubuntu,mysql,mongodb,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,c,html,css,tailwind,bootstrap,sklearn,js,threejs,nodejs,express,react,nextjs,git,github,heroku,linux,ubuntu,mysql,mongodb,latex,vscode,vercel,netlify" />
   </a>
 </p>
 
