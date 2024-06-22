@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Bhavana Mekala
 ======================================================================================================================================
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0username1)](https://github.com/0username1/github-readme-stats)
-Web Developer
+Machine Learning | Software Developer | Web Developer
 -------------
 
 I enjoy painting, playing badminton, piano and photography has always been one of my favorite hobbies.
@@ -33,4 +32,4 @@ I enjoy painting, playing badminton, piano and photography has always been one o
 
 <p align="left"> <a href="https://www.github.com/0username1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bhavana-mekala-611235229/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@bhavanamekala1029" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@https://www.youtube.com/channel/UCnOQlqdTiXG88mBZRVVueWA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0username1)](https://github.com/0username1/github-readme-stats)
