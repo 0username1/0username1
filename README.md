@@ -26,14 +26,21 @@ I enjoy painting, playing badminton, piano and photography has always been one o
 </p>
 
 ### Socials
-
 <p align="left">
-    <a href="https://www.github.com/0username1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-    <a href="https://www.linkedin.com/in/bhavana-mekala-611235229/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-    <a href="http://www.medium.com/@bhavanamekala1029" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
-    <a href="https://www.youtube.com/channel/UCnOQlqdTiXG88mBZRVVueWA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+    <a href="https://www.github.com/0username1" target="_blank" rel="noreferrer">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="margin-right: 10px;" width="32" height="32" />
+    </a>
+    <a href="https://www.linkedin.com/in/bhavana-mekala-611235229/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" style="margin-right: 10px;" width="32" height="32" />
+    </a>
+    <a href="http://www.medium.com/@bhavanamekala1029" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1024px-Medium_logo_Monogram.svg.png" alt="Medium" style="margin-right: 10px;" width="32" height="32" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCnOQlqdTiXG88mBZRVVueWA" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" alt="YouTube" width="32" height="32" />
+    </a>
 </p>
-  
+
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
